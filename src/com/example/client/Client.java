@@ -1,9 +1,9 @@
 /*
  * File: Client.java
  * Author: Patrik Hajdara
- * Copyright: 223, Patrik Hajdara
+ * Copyright: 2023, Patrik Hajdara
  * Group: SZOFT II/2/N
- * Date: 2023-10-24
+ * Date: 2023-10-26
  * Github: https://github.com/06776/
  * Licenc: GNU GPL
  * Az esetlegesen elofordulo hibakert nem all modomban felelosseget vallalni

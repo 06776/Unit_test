@@ -1,3 +1,14 @@
+/*
+ * File: Todo.java
+ * Author: Patrik Hajdara
+ * Copyright: 2023, Patrik Hajdara
+ * Group: SZOFT II/2/N
+ * Date: 2023-10-26
+ * Github: https://github.com/06776/
+ * Licenc: GNU GPL
+ * Az esetlegesen elofordulo hibakert nem all modomban felelosseget vallalni
+ */
+
 public class Todo {
 
   Integer userId;
