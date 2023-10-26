@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\Letöltések\\jcommander-1.83.jar",
+        "e:\\Letöltések\\testng-7.8.0.jar",
+        "e:\\Letöltések\\slf4j-api-1.7.36.jar",
+        "e:\\Letöltések\\gson-2.10.1.jar"
+    ]
+}
